@@ -116,6 +116,7 @@ Contributions are welcome! Here's how you can help:
 Made with ❤️ by **Aman Dey**
 
 -   GitHub: [@4M4ND3Y](https://github.com/4M4ND3Y)
+-   LinkedIn: [@amandey](https://linkedin.com/in/amandey)
 
 ---
 
