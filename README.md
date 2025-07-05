@@ -1,4 +1,4 @@
-# 🔐 LockVault - A Simple Password Manager using Tkinter
+# 🔐 Lock Vault - A Simple Password Manager using Tkinter
 
 **LockVault** is a secure, local password manager built using **Python** and **Tkinter**, designed to help you generate, manage, and store passwords efficiently. It provides a minimal yet elegant GUI, automatically copies passwords to your clipboard, and stores credentials in a simple `.txt` file on your machine.
 
@@ -58,7 +58,7 @@ pip install pillow
 1. **Clone the repository**
 
     ```bash
-    git clone https://github.com/your-username/lockvault.git
+    git clone https://github.com/4M4ND3Y/lock-vault.git
     cd lockvault
     ```
 
@@ -114,6 +114,8 @@ Contributions are welcome! Here's how you can help:
 ## 🙋‍♂️ Author
 
 Made with ❤️ by **Aman Dey**
+
+-   LinkedIn: [@amandey](https://linkedin.com/in/amandey)
 
 ---
 
