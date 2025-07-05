@@ -58,7 +58,7 @@ pip install pillow
 1. **Clone the repository**
 
     ```bash
-    git clone https://github.com/your-username/lockvault.git
+    git clone https://github.com/4M4ND3Y/lock-vault.git
     cd lockvault
     ```
 
