@@ -115,8 +115,6 @@ Contributions are welcome! Here's how you can help:
 
 Made with ❤️ by **Aman Dey**
 
--   LinkedIn: [@amandey](https://linkedin.com/in/amandey)
-
 ---
 
 ## 📄 License
